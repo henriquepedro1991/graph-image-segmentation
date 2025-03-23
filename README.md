@@ -9,6 +9,10 @@ pip install -r requirements.txt -r
 ### Dataset
 Place the images (.png or .jpg) that will be used as input in the images/original folder and the growndtruth in the images/growndtruth (.mat) folder.
 
+### Hedonic Repo
+Create 'hedonic' folder in root directory from downloding github repository below:
+https://github.com/lucaslopes/hedonic
+
 ## Run application
 For start the application activate env:
 ```console
