@@ -7,7 +7,7 @@ pip install -r requirements.txt -r
 
 ### Initial Setup
 ### Dataset
-Place the images (.png or .jpg) that will be used as input in the images/original folder and the growndtruth in the images/drowntruth (.mat) folder.
+Place the images (.png or .jpg) that will be used as input in the images/original folder and the growndtruth in the images/growndtruth (.mat) folder.
 
 ## Run application
 For start the application activate env:
