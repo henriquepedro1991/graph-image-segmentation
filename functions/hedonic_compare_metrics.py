@@ -7,8 +7,6 @@ from skimage.segmentation import slic
 from skimage.util import img_as_float
 import igraph as ig
 from hedonic.hedonic import HedonicGame
-
-# Importa as métricas do sklearn
 from sklearn.metrics import (
     adjusted_mutual_info_score,
     rand_score,
